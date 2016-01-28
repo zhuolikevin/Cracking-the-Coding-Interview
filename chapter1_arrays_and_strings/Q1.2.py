@@ -1,5 +1,5 @@
-# This problem can actually not be solved by Python, Java or other languages except
-# C/C++ in place, because the string variable is immutable in these languages.
+# This problem can actually not be solved by Python, Java or many other languages
+# except C/C++ in place, because the string variable is immutable in these languages.
 # Here we modify the input argument as an array and do it in place
 
 def solution(inputArray):
