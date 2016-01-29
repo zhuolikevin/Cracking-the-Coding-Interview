@@ -28,6 +28,7 @@ def solution2(inputString):
             charSet[ord(char)] = True
     return True
 
+# Test
 inputString = ''
 print solution1(inputString), solution2(inputString)
 

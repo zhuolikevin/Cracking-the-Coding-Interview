@@ -21,6 +21,7 @@ def solution(charArray, length):
             charArray[pointer] = charArray[i]
             pointer -= 1
 
+# Test
 charArray, length = ['','',''], 0
 solution(charArray, length)
 print charArray

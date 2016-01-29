@@ -38,6 +38,7 @@ def setChar(charArray, index, count, last):
         index += 1
     return index
 
+# Test
 inputString = ''
 print compress(inputString)
 

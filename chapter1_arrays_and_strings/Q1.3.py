@@ -45,6 +45,7 @@ def solution3(str1, str2):
 
     return True
 
+# Test
 str1, str2 = '', ''
 print solution1(str1, str2), solution2(str1, str2), solution3(str1, str2)
 
